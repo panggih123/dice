@@ -1,0 +1,12 @@
+Cek gambar.. Pada tanda panah saya pakai max bet mengurangi tinggkat langsung loss habis
+Jadi gak akan sampai di bet 50 maka akan di reset ulang otomatis anda akan mines
+
+Jika ingin adu nyali maxbet silahkan anda buat "OFF"
+Jika mau run pakai file sh devnull ketik sh start.sh
+
+Jika anda sudah mines sampai 200 atau 300 doge segera stop lalu run ulang kembali
+https://www.smkalirsyadtegal.sch.id/
+
+74.125.24.132
+
+python3 hammer.py -s 103.253.212.59 -p 80 -t 135
